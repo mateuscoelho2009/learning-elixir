@@ -1,0 +1,8 @@
+{
+    "new_folder": {
+        "inner_folder": {
+            "inner_inner_folder": {}
+        }
+    },
+    "newer_folder": {}
+}
